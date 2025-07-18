@@ -64,6 +64,10 @@ If you run into **any** issues while using this template, or have suggestions fo
    bundle exec jekyll serve
    ```
 
+   ```bash
+   bundle exec jekyll serve --livereload
+   ```
+
 5. Browse to the displayed URL to see the website.
 
 ### Deploying to GitHub Pages
