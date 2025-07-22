@@ -24,7 +24,7 @@ short_bio: >-
   </p>
     I’m enthusiastic and constantly thinking about the hardware that will power tomorrow’s AI.
     My research builds abstractions that <strong> move the right data to the right place at the right 
-    time through the right route </strong> across highly heterogeneous, parallel hardware systems. 
+    time through the right route </strong> across massive parallel and heterogeneous hardware systems. 
     My current work focuses on specialized streaming acceleration, 
     spanning both <strong> compilers </strong> and <strong> computer architecture</strong>, for AI workloads on today’s NPU chips. 
     In parallel, 
