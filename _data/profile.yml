@@ -24,9 +24,9 @@ short_bio: >-
   </p>
     I’m passionate and constantly thinking about the hardware that will drive tomorrow’s AI.
     My research builds abstractions that move data <strong> to the right place at the right 
-    time through the right route </strong> across massive parallel and heterogeneous hardware systems. 
-    My current work focuses on specialized streaming acceleration, 
-    bridging <strong> compilers </strong> and <strong> computer architecture</strong>, for AI workloads on AI-specialized dataflow hardware like NPUs and FPGAs. 
+    time through the right route </strong> across massive parallel and heterogeneous hardware systems.
+    Currently, I’m working on streaming acceleration for AI workloads running on AI-specialized dataflow chips 
+    like NPUs and FPGAs, bridging <strong> compilers </strong> and <strong> computer architecture</strong>.
     In parallel, 
     I’m exploring how AI can help generate high‑performance code and shorten chip‑design cycles, 
     aiming at a virtuous cycle: <strong> hardware for AI, and AI for hardware</strong>. 
